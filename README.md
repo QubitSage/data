@@ -18,7 +18,7 @@ Busco oportunidades **remotas** como **Analista de Dados Júnior** ou **Data Ass
 ---
 
 ## 📂 Portfólio de Projetos
-📌 Confira meu repositório dedicado: [Data Portfolio](https://github.com/QubitSage/data-portfolio)  
+📌 Confira meu repositório dedicado: [Data Portfolio](https://github.com/QubitSage/data)  
 
 - 📈 Dashboard de Vendas (Excel)  
 - 🗄️ Consultas SQL em E-commerce  
